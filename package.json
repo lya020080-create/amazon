@@ -1,0 +1,15 @@
+{
+  "name": "talabat",
+  "version": "1.0.0",
+  "description": "Talabat form site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "vercel-build": "echo Hello"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
+
